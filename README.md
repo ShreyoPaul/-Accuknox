@@ -1,4 +1,3 @@
-Here's an updated `README.md` file tailored to your Next.js project using Shadcn UI, Redux, and the provided code structure.
 
 ---
 
@@ -125,5 +124,3 @@ The project uses Tailwind CSS for styling. Shadcn UI components are styled with 
 This project is open-source and available under the MIT License.
 
 ---
-
-This `README.md` file provides a comprehensive overview of your project, including setup instructions, usage details, and explanations of key files and components. You can modify it further based on any additional project-specific details.
