@@ -87,9 +87,6 @@ Ensure you have the following installed:
 
 - The main page component that imports and renders the `Dashboard` component.
 
-### 5. `index.js`
-
-- This file initializes the Redux store and wraps the application with the Redux provider, making the state accessible across the app.
 
 ## Usage Instructions
 
